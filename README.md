@@ -63,7 +63,7 @@ The extension has been tested with OC 3.0.2.0 and default template, but should w
 
 ## Links
 * [Opencart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=35460)
-* [underr.space](https://underr.space/notes/projects/project-013.html)
+* [underr.space](https://underr.space/notes/projects/project-013.html) - coming soon
 
 ## License
-* [EULA](https://raw.githubusercontent.com/underr-ua/ocmod3-product-options-plus/master/EULA.txt)
+* [EULA](https://raw.githubusercontent.com/underr-ua/ocmod3-live-options-plus/master/EULA.txt)
