@@ -1,11 +1,11 @@
-End-User License Agreement (EULA) of Live Options+
+End-User License Agreement (EULA) of Live Products
 
-Last updated: 2018.11.06
+Last updated: 2018.11.13
 
 This End-User License Agreement ("EULA") is a legal agreement between the end
 user (the "Licensee" or "you") and Andrii Burkatskyi (the "Licensor")
 
-This EULA agreement governs your acquisition and use of our Live Options+
+This EULA agreement governs your acquisition and use of our Live Products
 software (the "Software") directly from the Licensor or indirectly through a
 Andrii Burkatskyi authorized reseller or distributor (a "Reseller").
 
@@ -36,13 +36,13 @@ unless other terms accompany those items on delivery. If so, those terms apply.
 
 Definitions
 
-Live Options+ (the "Software") means the Live Options+ software and
+Live Products (the "Software") means the Live Products software and
 includes:
 
 1. all its components developed and licensed by Burkatsky Andrii;
 2. any revisions, updates and/or upgrades thereto;
 3. anything in any form whatsoever intended to be used with or in
-   conjunction with the Live Options+;
+   conjunction with the Live Products;
 4. any associated media and documentation.
 
 
