@@ -1,8 +1,8 @@
 # Live Products
 
-The Live Products extension is for CMS Opencart 3. It extremly extends standart OpenCart features for the product options.
+The Live Products extension is for CMS Opencart 3. It extremely extends standard OpenCart features for the product options.
 
-The extension has been tested with OC 3.0.2.0 and default template, but should work with other OC 3.x and default-compatable templates and can be easily modified for newer OC versions and custom templates.
+The extension has been tested with OC 3.0.2.0 and default template, but should work with other OC 3.x and default-compatible templates and can be easily modified for newer OC versions and custom templates.
 
 Please feel free to contact me by email <underr.public@gmail.com> or through support form and comments on Opencart Marketplace (see links below).
 
@@ -10,7 +10,7 @@ Please feel free to contact me by email <underr.public@gmail.com> or through sup
 * The equal sign for the product options for prices, points and weight (with ability to hide prefix '=').
   - The equal sign is an exclusive feature that replace the base price (points, weight) of a product.
   - Options that use the equal sign are summed.
-* Ability to proportinal change that dependents on the ratio of special/discount price to product price for:
+* Ability to proportional change that dependents on the ratio of special/discount price to product price for:
   - Option prices.
   - Option prices in points.
   - Reward points.
@@ -24,15 +24,14 @@ Please feel free to contact me by email <underr.public@gmail.com> or through sup
   - Warning message about insufficient quantity of specified options.
   - Custom text for free option.
   - Custom separator for option information.
-* Ajax requests caching.
-* Custom id's for html containers for prices, old prices, options, points etc. for better customization.
-* Multilangual front-end - all messages based on the active store language.
+* Back-end and front-end caching.
+* Multilangual front-end - all messages based on the store active language.
 * Multilangual back-end - EN/UA/RU.
 * Doesn't change original files - OCMOD modification.
 * And much more...
 
 ## Change log
-* v1.0 (2018.11.06):
+* v1.0 (2018.11.14):
     * First release.
 
 ## How to install
