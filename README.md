@@ -1,6 +1,6 @@
 # Live Products
 
-The Live Products extension is for CMS Opencart 3. It extremely extends standard OpenCart features for the product options.
+The Live Products extension is for CMS Opencart 3. It allows to display additional information about the product and adds useful features of working with product options.
 
 The extension has been tested with OC 3.0.2.0 and default template, but should work with other OC 3.x and default-compatible templates and can be easily modified for newer OC versions and custom templates.
 
@@ -25,8 +25,8 @@ Please feel free to contact me by email <underr.public@gmail.com> or through sup
   - Custom text for free option.
   - Custom separator for option information.
 * Back-end and front-end caching.
-* Multilangual front-end - all messages based on the store active language.
-* Multilangual back-end - EN/UA/RU.
+* Multilingual front-end - all messages based on the store active language.
+* Multilingual back-end - EN/UA/RU.
 * Doesn't change original files - OCMOD modification.
 * And much more...
 
