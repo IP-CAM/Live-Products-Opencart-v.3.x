@@ -31,6 +31,8 @@ Please feel free to contact me by email <underr.public@gmail.com> or through sup
 * And much more...
 
 ## Change log
+* v1.1 (2018.12.14):
+    * Fixed issue with reward points calculation by quantity.
 * v1.0 (2018.11.14):
     * First release.
 
@@ -54,8 +56,8 @@ Please feel free to contact me by email <underr.public@gmail.com> or through sup
 * Admin > Dashboard > [Developer Settings] > [Refresh]
 
 ## Live demo
-* [Admin Demo](http://plus.ocmod.unaux.com/admin/index.php?route=extension/module/live_products)
-* [Front Demo](http://plus.ocmod.unaux.com/)
+* [Admin Demo](http://plus.ocmod-space.dx.am/admin/index.php?route=extension/module/live_products)
+* [Front Demo](http://plus.ocmod-space.dx.am/)
 
 ## Links
 * [Opencart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=35460)
