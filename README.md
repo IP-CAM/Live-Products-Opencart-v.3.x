@@ -19,11 +19,13 @@ Please feel free to contact me by email <underr.public@gmail.com> or through sup
   - Considers product quantity required for the discount.
   - Total weight of the product and specified options.
 * Multiple types for display product option info:
-  - Old prices (in case of usage discount or special prices).
-  - Additional info about option points, weight and availability.
+  - Show old prices (in case of usage discount or special prices).
+  - Show additional info about option points, weight and availability.
+  - Show additional info as a popup tooltip.
+  - Show full option prices, points and weight and hide prefixes.
   - Warning message about insufficient quantity of specified options.
-  - Custom text for free option.
-  - Custom separator for option information.
+  - Custom text for free option (e.g. FREE).
+  - Custom separator for option information (e.g. $5.00 • Points: 100 • Weight: 1kg).
 * Back-end and front-end caching.
 * Multilingual front-end - all messages based on the store active language.
 * Multilingual back-end - EN/UA/RU.
@@ -31,6 +33,10 @@ Please feel free to contact me by email <underr.public@gmail.com> or through sup
 * And much more...
 
 ## Change log
+* v1.2 (2019.01.15):
+    * Logic improvement.
+    * Added ability to show full option price/points/weight.
+    * Minor fixes.
 * v1.1 (2018.12.14):
     * Fixed issue with reward points calculation by quantity.
 * v1.0 (2018.11.14):
