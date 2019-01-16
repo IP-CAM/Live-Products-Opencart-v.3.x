@@ -1,38 +1,28 @@
 # Live Products
 
-The Live Products extension is for CMS Opencart 3. It allows to display additional information about the product and adds useful features of working with product options.
+The Live Products extension is for CMS Opencart 3. Allows to extend displayed information about products and options. Allows to change information on the fly depends on user actions (AJAX). Adds an equal sign for the product options. And much more...
 
 The extension has been tested with OC 3.0.2.0 and default template, but should work with other OC 3.x and default-compatible templates and can be easily modified for newer OC versions and custom templates.
 
 Please feel free to contact me by email <underr.public@gmail.com> or through support form and comments on Opencart Marketplace (see links below).
 
 ## Features
-* The equal sign for the product options for prices, points and weight (with ability to hide prefix '=').
-  - The equal sign is an exclusive feature that replace the base price (points, weight) of a product.
-  - Options that use the equal sign are summed.
-* Ability to proportional change that dependents on the ratio of special/discount price to product price for:
-  - Option prices.
-  - Option prices in points.
-  - Reward points.
-* Extended product summary:
-  - Total price, tax, weight, price in points and reward points can be display considering specified product quantity.
-  - Considers product quantity required for the discount.
-  - Total weight of the product and specified options.
-* Multiple types for display product option info:
-  - Show old prices (in case of usage discount or special prices).
-  - Show additional info about option points, weight and availability.
-  - Show additional info as a popup tooltip.
-  - Show full option prices, points and weight and hide prefixes.
-  - Warning message about insufficient quantity of specified options.
-  - Custom text for free option (e.g. FREE).
-  - Custom separator for option information (e.g. $5.00 • Points: 100 • Weight: 1kg).
+* Adds ability to change the price, points and weights on fly when some option is selected or selected quantity is changed.
+* Adds ability to use an equal sign for the product options.
+* Adds ability to use custom text for free options (e.g. FREE, just set option price = 0).
+* Adds ability to proportional change option prices and points if is used special/discount product price.
+* Adds ability to show old option prices if is used special/discount product price.
+* Adds ability to show product option points, weight and in-stock quantity (can be shown in popup tooltips).
+* Adds ability to show full product option prices, points and weight and hide prefixes.
+* Can show warning message about insufficient quantity of specified options.
 * Back-end and front-end caching.
-* Multilingual front-end - all messages based on the store active language.
+* Multilingual front-end - all messages based on the store active language, or can be set in extension options.
 * Multilingual back-end - EN/UA/RU.
 * Doesn't change original files - OCMOD modification.
-* And much more...
 
 ## Change log
+* v1.3 (2019.01.16):
+    * Minor improvements.
 * v1.2 (2019.01.15):
     * Logic improvement.
     * Added ability to show full option price/points/weight.
