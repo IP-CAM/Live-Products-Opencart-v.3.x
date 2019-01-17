@@ -1,20 +1,20 @@
 # Live Products
 
-The Live Products extension is for CMS Opencart 3. Allows to extend displayed information about products and options. Allows to change information on the fly depends on user actions (AJAX). Adds an equal sign for the product options. And much more...
+The Live Products extension is for CMS Opencart 3. Allows to extend displayed information about products and options. Allows to change price and other information on the fly depends on user actions (AJAX). Adds an equal sign prefix for the  options. And much more...
 
 The extension has been tested with OC 3.0.2.0 and default template, but should work with other OC 3.x and default-compatible templates and can be easily modified for newer OC versions and custom templates.
 
 Please feel free to contact me by email <underr.public@gmail.com> or through support form and comments on Opencart Marketplace (see links below).
 
 ## Features
-* Adds ability to change the price, points and weights on fly when some option is selected or selected quantity is changed.
-* Adds ability to use an equal sign for the product options.
-* Adds ability to use custom text for free options (e.g. FREE, just set option price = 0).
-* Adds ability to proportional change option prices and points if is used special/discount product price.
-* Adds ability to show old option prices if is used special/discount product price.
-* Adds ability to show product option points, weight and in-stock quantity (can be shown in popup tooltips).
-* Adds ability to show full product option prices, points and weight and hide prefixes.
-* Can show warning message about insufficient quantity of specified options.
+* Live price/points/weight calculation.
+* Equal sign prefix.
+* Option prices changes in proportion to the special/discount price.
+* Shows previous option prices if special or discount prices are used.
+* Shows option points, weight and in-stock quantity.
+* Shows full option prices/points/weight.
+* Shows custom text for free options (e.g. FREE, just set option price = 0).
+* Warning message about insufficient option quantity.
 * Back-end and front-end caching.
 * Multilingual front-end - all messages based on the store active language, or can be set in extension options.
 * Multilingual back-end - EN/UA/RU.
