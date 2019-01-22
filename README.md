@@ -1,20 +1,19 @@
 # Live Products
 
-The Live Products extension is for CMS Opencart 3. Allows to extend displayed information about products and options. Allows to change price and other information on the fly depends on user actions (AJAX). Adds an equal sign prefix for the  options. And much more...
+The Live Products extension is for CMS Opencart 3. Live price update according to selected options and quantity (AJAX). Additional information about products and options like weight, points, available quantity. Equals sign as option prefix. And much more...
 
 The extension has been tested with OC 3.0.2.0 and default template, but should work with other OC 3.x and default-compatible templates and can be easily modified for newer OC versions and custom templates.
 
 Please feel free to contact me by email <underr.public@gmail.com> or through support form and comments on Opencart Marketplace (see links below).
 
 ## Features
-* Live price/points/weight calculation.
-* Equal sign prefix.
-* Option prices changes in proportion to the special/discount price.
-* Shows previous option prices if special or discount prices are used.
-* Shows option points, weight and in-stock quantity.
-* Shows full option prices/points/weight.
-* Shows custom text for free options (e.g. FREE, just set option price = 0).
-* Warning message about insufficient option quantity.
+* Live price, points and weight update according to selected options and quantity (AJAX).
+* Equals sign as option prefix.
+* Discounts and special prices for product options according to the product price changing.
+* Previous prices, points, weight and available quantity for product options.
+* Full option prices without prefixes (there are conditions).
+* Custom text for free options (e.g. FREE).
+* "Insufficient quantity" warning message for the product options.
 * Back-end and front-end caching.
 * Multilingual front-end - all messages based on the store active language, or can be set in extension options.
 * Multilingual back-end - EN/UA/RU.
