@@ -1,6 +1,6 @@
 # Live Products
 
-The Live Products extension is for CMS Opencart 3. Live price update according to selected options and quantity (AJAX). Additional information about products and options like weight, points, available quantity. Equals sign as option prefix. And much more...
+The Live Products extension is for CMS Opencart 3.x. Live price update according to selected options and quantity (AJAX). Additional information about products and options like weight, points, available quantity. Equals sign as option prefix. And much more...
 
 The extension has been tested with OC 3.0.2.0 and default template, but should work with other OC 3.x and default-compatible templates and can be easily modified for newer OC versions and custom templates.
 
