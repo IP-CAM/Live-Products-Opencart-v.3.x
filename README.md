@@ -51,12 +51,12 @@ Please feel free to contact me by email <underr.public@gmail.com> or through sup
 * Admin > Dashboard > [Developer Settings] > [Refresh]
 
 ## Live demo
-* [Admin Demo](http://plus.ocmod-space.dx.am/admin/index.php?route=extension/module/live_products)
-* [Front Demo](http://plus.ocmod-space.dx.am/)
+* [Admin Demo](https://oc.underr.thats.im/d2/admin/index.php?route=extension/module/live_products)
+* [Front Demo](https://oc.underr.thats.im/d2/)
 
 ## Links
 * [Opencart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=35460)
-* [underr.space](https://underr.space/notes/projects/project-013.html) - description in russian (coming soon)
+* [underr.space](https://underr.space/notes/projects/project-013.html) - RU
 
 ## License
-* [EULA](https://raw.githubusercontent.com/underr-ua/ocmod3-live-products/master/EULA.txt)
+* [End-user license agreement](https://raw.githubusercontent.com/underr-ua/ocmod3-live-products/master/EULA.txt)
