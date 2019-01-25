@@ -1,6 +1,6 @@
 End-User License Agreement (EULA) of Live Products
 
-Last updated: 2018.11.13
+Last updated: 2019.01.25
 
 This End-User License Agreement ("EULA") is a legal agreement between the end
 user (the "Licensee" or "you") and Andrii Burkatskyi (the "Licensor")
