@@ -1,10 +1,9 @@
 # Live Products
-
 The Live Products extension is for CMS Opencart 3.x. Live price update according to selected options and quantity (AJAX). Additional information about products and options like weight, points, available quantity. Equals sign as option prefix. And much more...
 
 The extension has been tested with OC 3.0.2.0 and default template, but should work with other OC 3.x and default-compatible templates and can be easily modified for newer OC versions and custom templates.
 
-Please feel free to contact me by email <underr.public@gmail.com> or through support form and comments on Opencart Marketplace (see links below).
+Please feel free to contact me through the "GET SUPPORT" form or comments.
 
 ## Features
 * Live price, points and weight update according to selected options and quantity (AJAX).
@@ -46,17 +45,22 @@ Please feel free to contact me by email <underr.public@gmail.com> or through sup
 ## How to uninstall
 * Make backup
 * Open Admin Panel
+* Admin > Extensions > Extensions > Modules > [underr] Live Products > [Uninstall]
 * Admin > Extensions > Extensions > Installer > Install History > find the extension file > [Uninstall]
 * Admin > Extensions > Extensions > Modifications > [Refresh]
 * Admin > Dashboard > [Developer Settings] > [Refresh]
 
-## Live demo
-* [Admin Demo](https://oc.underr.thats.im/d2/admin/index.php?route=extension/module/live_products)
-* [Front Demo](https://oc.underr.thats.im/d2/)
+## Live demo [Main]
+* [Admin Demo](http://ocmod.freevar.com/oc3020/b/admin/index.php?route=extension/module/live_products)
+* [Front Demo](http://ocmod.freevar.com/oc3020/b)
+
+## Live demo [Alternative]
+* [Admin Demo](https://oc3020.underr.thats.im/b/admin/index.php?route=extension/module/live_products)
+* [Front Demo](https://oc3020.underr.thats.im/b)
 
 ## Links
 * [Opencart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=35460)
-* [underr.space](https://underr.space/notes/projects/project-013.html) - RU
+* [underr.space](https://underr.space/notes/projects/project-013.html)
 
 ## License
 * [End-User License Agreement](https://raw.githubusercontent.com/underr-ua/ocmod3-live-products/master/EULA.txt)
