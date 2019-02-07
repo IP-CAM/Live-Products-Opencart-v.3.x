@@ -1,6 +1,20 @@
-# Breadcrumbs SEO+ v1.1 (https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=35022)
-# Copyright 2018 Andrii Burkatskyi aka underr
-# EULA - https://raw.githubusercontent.com/underr-ua/ocmod3-breadcrumbs-seo-plus/master/EULA.txt
+#  * Live Products v1.0.
+#  *
+#  * The Live Products extension is for CMS Opencart 3.x.
+#  * The main extension features is displaying an extra info about products and options
+#  * and dynamically updating product price, tax etc on the product page based on selected
+#  * options and quantities.
+#  *
+#  *
+#  * @author		Andrii Burkatskyi aka underr underr.ua@gmail.com
+#  * @copyright	Copyright (c) 2019 Andrii Burkatskyi
+#  * @license		https://raw.githubusercontent.com/underr-ua/ocmod3-live-products/master/EULA.txt End-User License Agreement
+#  *
+#  * @version		1.0
+#  *
+#  * @see			https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=35460
+#  * @see			https://underr.space/notes/projects/project-014.html
+#  * @see			https://github.com/underr-ua/ocmod3-live-products
 
 zip=$(shell basename `pwd`).ocmod.zip
 

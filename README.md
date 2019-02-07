@@ -1,22 +1,27 @@
 # Live Products
-The Live Products extension is for CMS Opencart 3.x. Live price update according to selected options and quantity (AJAX). Additional information about products and options like weight, points, available quantity. Equals sign as option prefix. And much more...
+The Live Products extension is for CMS Opencart 3.x. The extension is designed to live update product page based on selected options and quantities. Dynamically updates total product price (including discounts and special), tax and reward points also as product option prices, reward points and weight. Allows to display total product weight. Allows to display available quantity for product options. Allows to use an equal sign as prefix for product option values. And much more...
 
 The extension has been tested with OC 3.0.2.0 and default template, but should work with other OC 3.x and default-compatible templates and can be easily modified for newer OC versions and custom templates.
 
 Please feel free to contact me through the "GET SUPPORT" form or comments.
 
 ## Features
-* Live price, points and weight update according to selected options and quantity (AJAX).
-* Equals sign as option prefix.
-* Discounts and special prices for product options according to the product price changing.
-* Previous prices, points, weight and available quantity for product options.
-* Full option prices without prefixes (there are conditions).
-* Custom text for free options (e.g. FREE).
-* "Insufficient quantity" warning message for the product options.
-* Back-end and front-end caching.
-* Multilingual front-end - all messages based on the store active language, or can be set in extension options.
-* Multilingual back-end - EN/UA/RU.
-* Doesn't change original files - OCMOD modification.
+* Live updates total product price (including discounts and special), tax and reward points based on selected options and quantity
+* Allows to display total product weight (weight of the product and selected options) on the product page and dynamycally update it (*)
+* Allows to display reward points, weight and available quantity for product options (*)
+* Live updates option prices, reward points and weight (*)
+* Allows to display warning message for insufficient option quantity (*)
+* Allows to apply discounts and special prices for product options (*)
+* In case of use discounts and special prices allows to display previous option prices (*)
+* Allows to display full option prices (hides prefixes) (*)
+* Allows to use an equal sign as prefix for product option values - price, reward points, weight (*)
+* Allows to use user text for free product options (e.g. FREE) (*)
+* Allows to use two kind of caching -  back-end and front-end cache (*)
+* Multilingual - front-end messages are based on an active language, or can be set in extension settings
+* Multilingual back-end - EN/UA/RU
+* OCMOD - does not change original files
+
+(*) - optional
 
 ## Change log
 * v1.3 (2019.01.16):
@@ -40,7 +45,7 @@ Please feel free to contact me through the "GET SUPPORT" form or comments.
 ## How to configure
 * Admin > Extensions > Extensions > Modules > [underr] Live Products > [Install].
 * Admin > Extensions > Extensions > Modules > [underr] Live Products > [Edit].
-    * Set the desired parameters.
+    * Set parameters.
 
 ## How to uninstall
 * Make backup
