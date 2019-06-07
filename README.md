@@ -1,8 +1,6 @@
 # Live Products
 The Live Products extension is for CMS Opencart 3.x. The extension is designed to live update product page based on selected options and quantities. Dynamically updates total product price (including discounts and special), tax and reward points also as product option prices, reward points and weight. Allows to display total product weight. Allows to display available quantity for product options. Allows to use an equal sign as prefix for product option values. And much more...
 
-The extension has been tested with OC 3.0.2.0 and default template, but should work with other OC 3.x and default-compatible templates and can be easily modified for newer OC versions and custom templates.
-
 Please feel free to contact me through the "GET SUPPORT" form or comments.
 
 ## Features
@@ -24,6 +22,8 @@ Please feel free to contact me through the "GET SUPPORT" form or comments.
 (*) - optional
 
 ## Change log
+* v1.4 (2019.06.07):
+    * Template compatibility improvement.
 * v1.3 (2019.01.16):
     * Minor improvements.
 * v1.2 (2019.01.15):
