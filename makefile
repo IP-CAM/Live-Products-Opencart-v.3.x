@@ -1,4 +1,4 @@
-#  * Live Products v1.0.
+#  * Live Products
 #  *
 #  * The Live Products extension is for CMS Opencart 3.x.
 #  * The main extension features is displaying an extra info about products and options
@@ -10,7 +10,7 @@
 #  * @copyright	Copyright (c) 2019 Andrii Burkatskyi
 #  * @license		https://raw.githubusercontent.com/underr-ua/ocmod3-live-products/master/EULA.txt End-User License Agreement
 #  *
-#  * @version		1.4
+#  * @version		1.5
 #  *
 #  * @see			https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=35460
 #  * @see			https://underr.space/notes/projects/project-014.html

@@ -22,18 +22,20 @@ Please feel free to contact me through the "GET SUPPORT" form or comments.
 (*) - optional
 
 ## Change log
+* v1.5 (2019.06.18):
+  * Minor bug fix.
 * v1.4 (2019.06.07):
-    * Template compatibility improvement.
+  * Template compatibility improvement.
 * v1.3 (2019.01.16):
-    * Minor improvements.
+  * Minor improvements.
 * v1.2 (2019.01.15):
-    * Logic improvement.
-    * Added ability to show full option price/points/weight.
-    * Minor fixes.
+  * Logic improvement.
+  * Added ability to show full option price/points/weight.
+  * Minor fixes.
 * v1.1 (2018.12.14):
-    * Fixed issue with reward points calculation by quantity.
+  * Fixed issue with reward points calculation by quantity.
 * v1.0 (2018.11.14):
-    * First release.
+  * First release.
 
 ## How to install
 * To begin, make backup, really!
