@@ -40,8 +40,8 @@ Please feel free to contact me through the "GET SUPPORT" form or comments.
 ## How to install
 * To begin, make backup, really!
 * Open Admin Panel.
-* Admin > Extensions > Extensions > Installer > [Upload]: open the extension file.
-* Admin > Extensions > Extensions > Modifications > [Refresh].
+* Admin > Extensions > Installer > [Upload]: open the extension file.
+* Admin > Extensions > Modifications > [Refresh].
 * Admin > Dashboard > [Developer Settings] > [Refresh].
 
 ## How to configure
@@ -53,8 +53,8 @@ Please feel free to contact me through the "GET SUPPORT" form or comments.
 * Make backup
 * Open Admin Panel
 * Admin > Extensions > Extensions > Modules > [underr] Live Products > [Uninstall]
-* Admin > Extensions > Extensions > Installer > Install History > find the extension file > [Uninstall]
-* Admin > Extensions > Extensions > Modifications > [Refresh]
+* Admin > Extensions > Installer > Install History > find the extension file > [Uninstall]
+* Admin > Extensions > Modifications > [Refresh]
 * Admin > Dashboard > [Developer Settings] > [Refresh]
 
 ## Live demo [Main]
