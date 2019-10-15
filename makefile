@@ -1,20 +1,18 @@
-#  * Live Products
-#  *
-#  * The Live Products extension is for CMS Opencart 3.x.
-#  * The main extension features is displaying an extra info about products and options
-#  * and dynamically updating product price, tax etc on the product page based on selected
-#  * options and quantities.
-#  *
-#  *
-#  * @author		Andrii Burkatskyi aka underr underr.ua@gmail.com
-#  * @copyright	Copyright (c) 2019 Andrii Burkatskyi
-#  * @license		https://raw.githubusercontent.com/underr-ua/ocmod3-live-products/master/EULA.txt End-User License Agreement
-#  *
-#  * @version		1.5
-#  *
-#  * @see			https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=35460
-#  * @see			https://underr.space/notes/projects/project-014.html
-#  * @see			https://github.com/underr-ua/ocmod3-live-products
+# Live Products
+#
+# The Live Products extension is for CMS Opencart 3.x.
+# It allows to display live total price, weight and reward points of product and its options, in accordance with the
+# specified options and quantity. Also the extension adds a lot of additional convenient features.
+#
+# @author      Andrii Burkatskyi aka underr underr.ua@gmail.com
+# @copyright   Copyright (c) 2019 Andrii Burkatskyi
+# @license     https://raw.githubusercontent.com/underr-ua/ocmod3-live-products/master/EULA.txt End-User License Agreement
+#
+# @version     1.6
+#
+# @see         https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=35460
+# @see         https://underr.space/notes/projects/project-013.html
+# @see         https://github.com/underr-ua/ocmod3-live-products
 
 zip=$(shell basename `pwd`).ocmod.zip
 

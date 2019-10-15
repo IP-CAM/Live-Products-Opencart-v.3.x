@@ -1,27 +1,24 @@
 # Live Products
-The Live Products extension is for CMS Opencart 3.x. The extension is designed to live update product page based on selected options and quantities. Dynamically updates total product price (including discounts and special), tax and reward points also as product option prices, reward points and weight. Allows to display total product weight. Allows to display available quantity for product options. Allows to use an equal sign as prefix for product option values. And much more...
+The Live Products extension is for CMS Opencart 3.x. It allows to display live total price, weight and reward points of product and its options, in accordance with the specified options and quantity, adds ability to use the equal sign as prefix, allows to display available  product options quantity, and much more...
 
 Please feel free to contact me through the "GET SUPPORT" form or comments.
 
 ## Features
-* Live updates total product price (including discounts and special), tax and reward points based on selected options and quantity
-* Allows to display total product weight (weight of the product and selected options) on the product page and dynamycally update it (*)
-* Allows to display reward points, weight and available quantity for product options (*)
-* Live updates option prices, reward points and weight (*)
-* Allows to display warning message for insufficient option quantity (*)
-* Allows to apply discounts and special prices for product options (*)
-* In case of use discounts and special prices allows to display previous option prices (*)
-* Allows to display full option prices (hides prefixes) (*)
-* Allows to use an equal sign as prefix for product option values - price, reward points, weight (*)
-* Allows to use user text for free product options (e.g. FREE) (*)
-* Allows to use two kind of caching -  back-end and front-end cache (*)
-* Multilingual - front-end messages are based on an active language, or can be set in extension settings
-* Multilingual back-end - EN/UA/RU
-* OCMOD - does not change original files
-
-(*) - optional
+* Live update of total price, weight and reward points of product and options, in accordance with the specified options and quantity
+* Available quantity for product options
+* Warning message if product option quantity is insufficient
+* Allows to apply discounts and special prices to product options
+* Allows to show previous prices allows to display previous option prices
+* Allows to display total prices of product options without prefixes and in accordance with quantitiy
+* Allows to use the equal sign as prefix for product option values - price, reward points, weight
+* Allows to use user custom text for free of charge product options (e.g. FREE)
+* Optional backend and frontend caching
+* Multilingual frontend and backend  (EN/UA/RU)
+* OCMOD - does not change OpenCart files
 
 ## Change log
+* v1.6 (2019.10.14):
+  * Improvements.
 * v1.5 (2019.06.18):
   * Minor bug fix.
 * v1.4 (2019.06.07):
@@ -53,21 +50,17 @@ Please feel free to contact me through the "GET SUPPORT" form or comments.
 * Make backup
 * Open Admin Panel
 * Admin > Extensions > Extensions > Modules > [underr] Live Products > [Uninstall]
-* Admin > Extensions > Installer > Install History > find the extension file > [Uninstall]
+* Admin > Extensions > Installer > Install History > live-products.ocmod.zip > [Uninstall]
 * Admin > Extensions > Modifications > [Refresh]
 * Admin > Dashboard > [Developer Settings] > [Refresh]
 
 ## Live demo [Main]
-* [Admin Demo](http://ocmod.freevar.com/oc3020/b/admin/index.php?route=extension/module/live_products)
-* [Front Demo](http://ocmod.freevar.com/oc3020/b)
-
-## Live demo [Alternative]
-* [Admin Demo](https://oc3020.underr.thats.im/b/admin/index.php?route=extension/module/live_products)
-* [Front Demo](https://oc3020.underr.thats.im/b)
+* [Admin](http://ocmod.freevar.com/oc3020/b/admin/index.php?route=extension/module/live_products)
+* [Front](http://ocmod.freevar.com/oc3020/b)
 
 ## Links
 * [Opencart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=35460)
-* [underr.space](https://underr.space/notes/projects/project-013.html)
+* [HomePage](https://underr.space/en/notes/projects/project-013.html)
 
 ## License
 * [End-User License Agreement](https://raw.githubusercontent.com/underr-ua/ocmod3-live-products/master/EULA.txt)
