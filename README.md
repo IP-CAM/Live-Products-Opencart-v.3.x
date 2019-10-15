@@ -1,6 +1,8 @@
 # Live Products
 The Live Products extension is for CMS Opencart 3.x. It allows to display live total price, weight and reward points of product and its options, in accordance with the specified options and quantity, adds ability to use the equal sign as prefix, allows to display available  product options quantity, and much more...
 
+The extension was tested on default OpenCart 3.x templates, but can be easily modified for compatibility custom templates.
+
 Please feel free to contact me through the "GET SUPPORT" form or comments.
 
 ## Features
@@ -13,7 +15,8 @@ Please feel free to contact me through the "GET SUPPORT" form or comments.
 * Allows to use the equal sign as prefix for product option values - price, reward points, weight
 * Allows to use user custom text for free of charge product options (e.g. FREE)
 * Optional backend and frontend caching
-* Multilingual frontend and backend  (EN/UA/RU)
+* Multilingual front-end (messages are based on an active store language)
+* Multilingual back-end (EN/UA/RU)
 * OCMOD - does not change OpenCart files
 
 ## Change log
