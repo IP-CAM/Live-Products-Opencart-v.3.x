@@ -6,7 +6,7 @@ The extension was tested on default OpenCart 3.x templates, but can be easily mo
 Please feel free to contact me through the «Get Support» form or comments on Opencart Marketplace and through the contact form or comments on Homepage (see links below).
 
 ## Features
-* Live update of total price, weight and reward points of product and options, in accordance with the specified options and quantity
+* Live update of total price, weight and reward points of product and options in accordance with the specified options and quantity
 * Available quantity for product options
 * Warning message if product option quantity is insufficient
 * Allows to apply discounts and special prices to product options
