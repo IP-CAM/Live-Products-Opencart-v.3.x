@@ -10,7 +10,7 @@ Please feel free to contact me through the «Get Support» form or comments and 
 * Warning message if product option quantity is insufficient
 * Allows to apply discounts and special prices to product options
 * Allows to show previous prices allows to display previous option prices
-* Allows to display total prices of product options without prefixes and in accordance with quantitiy
+* Allows to display total prices for product options in accordance with specified product quantity (without prefixes)
 * Allows to use the equal sign as prefix for product option values - price, reward points, weight
 * Allows to use user custom text for free of charge product options (e.g. FREE)
 * Optional backend and frontend caching
