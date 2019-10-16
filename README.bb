@@ -41,7 +41,7 @@ Please feel free to contact me through the «Get Support» form or comments and 
 [b]How to install[/b]
 * To begin, make backup, really!
 * Open Admin Panel
-* Admin > Extensions > Installer > [Upload]: open the extension file
+* Admin > Extensions > Installer > [Upload]: live-products.ocmod.zip
 * Admin > Extensions > Modifications > [Refresh]
 * Admin > Dashboard > [Developer Settings] > [Refresh]
 
