@@ -3,7 +3,7 @@ The Live Products extension is for CMS Opencart 3.x. It allows to display live t
 
 The extension was tested on default OpenCart 3.x templates, but can be easily modified for compatibility custom templates.
 
-Please feel free to contact me through the "GET SUPPORT" form or comments.
+Please feel free to contact me through the «Get Support» form or comments on Opencart Marketplace and through the contact form or comments on Homepage (see links below).
 
 ## Features
 * Live update of total price, weight and reward points of product and options, in accordance with the specified options and quantity
