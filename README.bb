@@ -18,8 +18,6 @@ Please feel free to contact me through the «Get Support» form or comments and 
 * Multilingual back-end (EN/UA/RU)
 * OCMOD - does not change OpenCart files
 
-(*) - optional
-
 [b]Change log[/b]
 * v1.6 (2019.10.14):
   * Improvements.
