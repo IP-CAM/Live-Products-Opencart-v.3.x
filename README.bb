@@ -1,16 +1,15 @@
-The Live Products extension is for CMS Opencart 3.x. It allows to display live total price, weight and reward points of product and its options in accordance with the specified options and quantity, adds ability to use the equal sign as prefix, allows to display available  product options quantity, and much more...
+The Live Products extension is for CMS Opencart 3.x. It allows to live update total price, weight and reward points of product and its options in accordance with the specified options and quantity, adds ability to use the equal sign as prefix, allows to display available  product options quantity, and much more...
 
 The extension was tested on default OpenCart 3.x templates, but can be easily modified for compatibility custom templates.
 
 Please feel free to contact me through the «Get Support» form or comments and through the contact form or comments on Homepage (see links below).
 
 [b]Features[/b]
-* Live update of total price, weight and reward points of product and options in accordance with the specified options and quantity
-* Available quantity for product options
-* Warning message if product option quantity is insufficient
+* Live update total price, weight and reward points of product and its options in accordance with the specified options and quantity
+* Allows to display available product option quantity and warning message for insufficient option quantity
 * Allows to apply discounts and special prices to product options
-* Allows to show previous prices allows to display previous option prices
-* Allows to display total prices for product options in accordance with specified product quantity (without prefixes)
+* Allows to display previous prices
+* Allows to display total option prices in accordance with specified product quantity (without prefixes)
 * Allows to use the equal sign as prefix for product option values - price, reward points, weight
 * Allows to use user custom text for free of charge product options (e.g. FREE)
 * Optional backend and frontend caching
@@ -19,6 +18,8 @@ Please feel free to contact me through the «Get Support» form or comments and 
 * OCMOD - does not change OpenCart files
 
 [b]Change log[/b]
+* v1.7 (2019.10.23):
+  * Minor improvements.
 * v1.6 (2019.10.14):
   * Improvements.
 * v1.5 (2019.06.18):
@@ -62,7 +63,7 @@ Please feel free to contact me through the «Get Support» form or comments and 
 
 [b]Links[/b]
 * [url=https://underr.space/en/notes/projects/project-013.html]HomePage[/url]
-* [url=https://github.com/underr-ua/ocmod3-live-products]GitHub[/url]
+* [url=https://github.com/en/underr-ua/ocmod3-live-products]GitHub[/url]
 
 [b]License[/b]
 * [url=https://raw.githubusercontent.com/underr-ua/ocmod3-live-products/master/EULA.txt]End-user license agreement[/url]
