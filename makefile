@@ -8,7 +8,7 @@
 # @copyright   Copyright (c) 2019 Andrii Burkatskyi
 # @license     https://raw.githubusercontent.com/underr-ua/ocmod3-live-products/master/EULA.txt End-User License Agreement
 #
-# @version     1.6
+# @version     1.7
 #
 # @see         https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=35460
 # @see         https://underr.space/en/notes/projects/project-013.html
@@ -18,7 +18,7 @@ zip=$(shell basename `pwd`).ocmod.zip
 
 eula=EULA.txt
 readme=README.md
-datetime=201801010000.00
+datetime=201901010000.00
 src=src
 bin=bin
 
